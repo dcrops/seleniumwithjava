@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Initial Tests">
+    <test name="Application Test">
+        <classes>
+            <class name = "Framework_Phase_1.Testng1"> </class>
+
+        </classes>
+    </test>
+</suite>
